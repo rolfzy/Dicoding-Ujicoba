@@ -9,5 +9,4 @@ Repo ini adalah Ujicoba Dicoding
 - list1
 - list2
 - list3  
-call me at my cellphone.  
-hotbline
+call me at my cellphone<br>hotbline
