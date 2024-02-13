@@ -9,7 +9,7 @@ Repo ini adalah Ujicoba Dicoding
 - list1
 - list2
 - list3  
-
+Github dan Git agak agak gimana gitu Yaudahhhh
 
 ## Make branche Dicoding-UjiCoba! 
 - make list 
