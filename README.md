@@ -12,3 +12,7 @@ Repo ini adalah Ujicoba Dicoding
 
 
 ## Make branche Dicoding-UjiCoba! 
+- make list 
+- make list 
+- make list 
+
