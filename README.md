@@ -1,9 +1,9 @@
-# Colab-Ujicoba 📰
+# Dicoding-Ujicoba
 
 == 
 ## heading 2
 
-Repo ini adalah Ujicoba Dicoding😁
+Repo ini adalah Ujicoba Dicoding
 --
  *tulisan bercetak mirirng*
 - list1
@@ -12,4 +12,9 @@ Repo ini adalah Ujicoba Dicoding😁
 
 Github dan git Mudah ya!
 
-## Ini adalah hasil dari fork defenseofancient ✔ Nice se! 🐱‍👤
+
+## Make branche Dicoding-UjiCoba! 
+- make list 
+- make list 
+- make list 
+
