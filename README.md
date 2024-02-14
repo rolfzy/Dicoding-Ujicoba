@@ -19,4 +19,4 @@ Github dan git Mudah ya!
 - make list 
 
 ## This Is Daftar Emoji ⭐
-- 
+- 😀
