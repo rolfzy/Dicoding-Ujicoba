@@ -6,7 +6,7 @@
 Repo ini adalah Ujicoba Dicoding
 --
  *tulisan bercetak mirirng*
-- list1
+- list1 📰
 - list2
 - list3  
 
