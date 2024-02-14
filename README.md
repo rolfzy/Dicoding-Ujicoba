@@ -18,3 +18,7 @@ Github dan git Mudah ya!
 - make list 
 - make list 
 
+## This Is Daftar Emoji ⭐
+- 😀
+- 😋
+- 😜
