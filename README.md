@@ -1,8 +1,9 @@
 # Dicoding-Ujicoba
 # 💻  
 
-Ini adalah akun uji coba <br>
+
 == 
+ <b>ini Akun Uji Coba</b>
 ## heading 2
 
 Repo ini adalah Ujicoba Dicoding
