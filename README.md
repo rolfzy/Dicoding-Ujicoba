@@ -20,3 +20,5 @@ Github dan git Mudah ya!
 
 ## This Is Daftar Emoji ⭐
 - 😀
+- 😋
+- 😜
