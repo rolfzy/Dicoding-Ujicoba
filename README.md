@@ -7,7 +7,7 @@ Repo ini adalah Ujicoba Dicoding
 --
  *tulisan bercetak mirirng*
 - list1 📰
-- list2
+- list2 🖼
 - list3  
 
 Github dan git Mudah ya!
